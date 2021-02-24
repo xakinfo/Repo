@@ -12,3 +12,17 @@ Description: This is a test package.
 Name: Test package
 Author: XAKINFO <Bnyaminali26@gmail>
 Depiction: A Test tweak
+
+Package: com.github.xakazazil
+Section: Tweaks
+Installed-Size: 4192
+Maintainer: @bnyaminali
+Architecture: iphoneos-arm
+Version: 6.7
+Depends: mobilesubstrate, ws.hbang.common, firmware (>= 11.0)
+Description: For hacking all Apps And Games : TOOLS !
+Name: XakCRACK
+Author: @bnyaminali
+Filename: ./debs/com.github.xakazazil_6.7_iphoneos-arm.deb
+MD5sum: 4375cd8a08ebd827e6022fb942f9983c
+Depiction: XakCRACK 
